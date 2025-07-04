@@ -44,4 +44,4 @@ jobs:
           NPM_TOKEN: ${{ env.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Optional
         run: yarn g:release
-      
+      [![Release](https://github.com/Mayhem1380/token-lists/actions/workflows/release.yml/badge.svg)](https://github.com/Mayhem1380/token-lists/actions/workflows/release.yml)
